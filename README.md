@@ -1,6 +1,6 @@
 A simplified sublime typescript plugin. Only supports syntax highlighting
 
-Use with ADD LINK HERE
+Use with https://github.com/seanhess/sublime-build-errors to add error checking
 
 Installation
 ------------
